@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/jasperreports/dist" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/jasperreports/dist/docs/api" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jasperreports/dist" recursive="false" />
+  </library>
+</component>
